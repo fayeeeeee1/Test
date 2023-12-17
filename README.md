@@ -1,5 +1,4 @@
 **This is my repo for testing the operations of git.**
-##Part one
 + we should learn something from balaaaa
  > git add
  > git commit
