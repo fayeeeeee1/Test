@@ -14,6 +14,6 @@ int main()
     return 0;
 }
 ```
-So when we use `printf()`, we should notice that the args should follow functions`s `rules`.
+So when we use `printf()`, we should notice that the args should follow functions\`s `rules`.
 
 
